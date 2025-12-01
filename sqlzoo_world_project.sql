@@ -1,20 +1,6 @@
 -- ============================================================
 -- SQL PROJECT + SQLZOO-STYLE ANSWERS
--- Assumes a table similar to SQLZoo's `world` table:
---   world(name, continent, area, population, gdp)
--- Adjust table/column names if your schema differs.
 -- ============================================================
-
-/*
-Optional reference schema (only use if you need to create the table):
-CREATE TABLE world (
-    name        VARCHAR(50),
-    continent   VARCHAR(50),
-    area        INT,          -- in km^2
-    population  INT,          -- in people
-    gdp         BIGINT        -- in USD
-);
-*/
 
 
 -- ============================================================
